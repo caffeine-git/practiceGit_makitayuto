@@ -1,1 +1,1 @@
-# practiceGit_makitayuto
+# Github練習
